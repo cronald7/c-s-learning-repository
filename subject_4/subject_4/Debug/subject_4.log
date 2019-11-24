@@ -1,0 +1,5 @@
+﻿  subject_4.cpp
+e:\vs15\workspace\pekingu_c++\pekingu_homework6\subject_4\subject_4\subject_4.cpp(53): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs15\workspace\pekingu_c++\pekingu_homework6\subject_4\subject_4\subject_4.cpp(67): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs15\workspace\pekingu_c++\pekingu_homework6\subject_4\subject_4\subject_4.cpp(72): warning C4018: “<”: 有符号/无符号不匹配
+  subject_4.vcxproj -> E:\VS15\workspace\PekingU_C++\PekingU_homework6\subject_4\Debug\subject_4.exe
